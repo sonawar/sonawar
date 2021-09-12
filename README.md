@@ -3,10 +3,10 @@
 I am Ravi
 
 My technical experties in -
-Natural Language Processing \n
-Machine Learning \n
-MLOPS \n
-Data Engineering \n
+Natural Language Processing
+Machine Learning
+MLOPS
+Data Engineering
 
 Language and Tools-
 Python
