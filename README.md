@@ -17,7 +17,7 @@ Data Engineering
 
 
   
-## Languages and Tools:
+## Languages and Tools
 
 Python
 
